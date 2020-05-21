@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SistemaWeb:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82c33c4a-549c-485d-b5bc-3f9a69817dbf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.designer/designer-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/.designer/designer-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/mainSupervisor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="131" selection-start-line="21" selection-start-column="123" selection-end-line="21" selection-end-column="131" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/main.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="31" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sidebar-header</find>
+      <find>.nav navbar-nav left-sidebar-menu-pro</find>
+      <find>.row</find>
+      <find>left-sidebar-menu-pro</find>
+      <find>.left-sidebar-menu-pro</find>
+      <find>nav navbar-nav left-sidebar-menu-pro</find>
+      <find>breadcome</find>
+      <find>&lt;!-- welcome Project, sale area</find>
+      <find>sidebar</find>
+      <find>Botones</find>
+      <find>Combo</find>
+      <find>menu</find>
+      <find>pag</find>
+      <find>casa</find>
+      <find>id_es</find>
+      <find>comed</find>
+      <find>editar</find>
+      <find>edi</find>
+      <find>editarC</find>
+      <find>combo</find>
+      <find>aplicarFiltro</find>
+      <find>filtroRenglones</find>
+      <find>ListaSupervisores</find>
+      <find>comedor</find>
+      <find>REACT</find>
+      <find>REACTIVARr</find>
+      <find>min-he</find>
+      <find>sidebar-he</find>
+      <find>boton-home</find>
+      <find>nav-link</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADTipoAlumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADUnidadAcademica.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/unidadAcademica.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/municipio.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADMunicipio.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/estatusEconomico" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADEstatusEconomico.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/utils/EnviarCorreo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADUsuario.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Alumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Usuario.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/usuario.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/alumno.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADAlumno.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Supervisor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/vistas/FormCasaDesign.html" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/CasaTab.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Estatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Casa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormCasaLogica.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/casa.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Cuarto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADCuarto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormCuartoLogica.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/cuarto.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/AlumnoEdicionForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/AlumnoNuevoForm.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/estatus.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/TabResponsable.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaComedores.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADAdministrador.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/responsable.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADCasa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/CasaLista.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaSubsedes.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaFunciones.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormFuncionLogica.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/subsede.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaSupervisores.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADResponsable.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/ConfigDB.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/MyUI.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/css/meanmenu.min.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/main.html" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormResponsableLogica.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaResponsables.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/CuartoLista.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/login.html" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/Login.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/css/estilos.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sistema Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sistema Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sistema Web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="683" />
+    <option name="width" value="683" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SistemaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SistemaWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="SistemaWeb_war" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SistemaWeb" type="58d84e3e:PackageViewProjectNode" />
+              <item name="SistemaWeb" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="accesodatos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="modelos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="vistas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="db" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="db" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mappers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="mx" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="uaz" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="edu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="SistemaBecasCASE" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="vistas" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="VAADIN" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="SistemaWeb" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SistemaWeb" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="webapp" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="VAADIN" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="css" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559705370868" />
+    <property name="designer-theme-cache.name" value="mytheme" />
+    <property name="designer-theme-cache.timestamp" value="1559134980104" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\poli\IdeaProjects\SistemaWeb\out" />
+      <recent name="C:\Users\poli\IdeaProjects\SistemaWeb\src\main\java\mx\uaz\edu\SistemaBecasCASE\accesodatos" />
+      <recent name="C:\Users\poli\IdeaProjects\SistemaWeb\src\main\java\mx\uaz\edu\SistemaBecasCASE\vistas" />
+      <recent name="C:\Users\poli\IdeaProjects\SistemaWeb\src\main\resources\mx\uaz\edu\SistemaBecasCASE\db\mappers" />
+      <recent name="C:\Users\poli\IdeaProjects\SistemaWeb\src\main\java\mx\uaz\edu\SistemaBecasCASE\modelos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Documents\UAZ\Semestre VI\Frameworks\Proyectos\SistemaWeb\src\main\webapp\VAADIN\css" />
+      <recent name="C:\Users\Lenovo\Documents\UAZ\Semestre VI\Frameworks\Proyectos\SistemaWeb\src\main\webapp\VAADIN\js" />
+      <recent name="C:\Users\Lenovo\Documents\UAZ\Semestre VI\Frameworks\Proyectos\SistemaWeb\src\main\webapp\VAADIN\themes\mytheme\layouts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SistemaWeb [jetty:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82c33c4a-549c-485d-b5bc-3f9a69817dbf" name="Default Changelist" comment="" />
+      <created>1551731800706</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551731800706</updated>
+      <workItem from="1551731822025" duration="3550000" />
+      <workItem from="1551748841050" duration="2794000" />
+      <workItem from="1551802201617" duration="2420000" />
+      <workItem from="1551990533027" duration="8168000" />
+      <workItem from="1552338553397" duration="3386000" />
+      <workItem from="1552405358812" duration="1332000" />
+      <workItem from="1558023843066" duration="466000" />
+      <workItem from="1558025688286" duration="1312000" />
+      <workItem from="1558140008822" duration="660000" />
+      <workItem from="1558140864481" duration="2005000" />
+      <workItem from="1558280241672" duration="26755000" />
+      <workItem from="1590027324221" duration="328000" />
+    </task>
+    <task id="LOCAL-00001" summary="Se agrega el botón AcercaDe con la Información de los Integrantes.&#10;Se modificaron los colores del dashboard.&#10;Se eliminó el contenido.">
+      <created>1551998493283</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551998493283</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MARIO - Se agregan los mapers necesarios para realizar las consurtas a usuarios y a alumnos">
+      <created>1558332471344</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558332471344</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53176000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="683" y="0" width="683" height="728" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.60513645" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32436976" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.08510638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.12647374" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.045826513" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989059" weight="0.032467533" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="com.vaadin.designer2.intellij.palette.PaletteToolWindowManager.toolWindow" order="0" sideWeight="0.4888889" weight="0.2934947" />
+      <window_info anchor="right" id="com.vaadin.designer2.intellij.outline.OutlineToolWindowManager.toolWindow" order="1" sideWeight="0.51111114" side_tool="true" weight="0.2934947" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.022692889" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49946696" weight="0.32436976" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47135842" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.12647374" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.045826513" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.4989059" weight="0.032467533" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="com.vaadin.designer2.intellij.palette.PaletteToolWindowManager.toolWindow" order="0" sideWeight="0.4888889" weight="0.2934947" />
+      <window_info anchor="right" id="com.vaadin.designer2.intellij.outline.OutlineToolWindowManager.toolWindow" order="1" sideWeight="0.51111114" side_tool="true" weight="0.2934947" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Maven" order="11" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se agrega el botón AcercaDe con la Información de los Integrantes.&#10;Se modificaron los colores del dashboard.&#10;Se eliminó el contenido." />
+    <MESSAGE value="MARIO - Se agregan los mapers necesarios para realizar las consurtas a usuarios y a alumnos" />
+    <option name="LAST_COMMIT_MESSAGE" value="MARIO - Se agregan los mapers necesarios para realizar las consurtas a usuarios y a alumnos" />
+  </component>
+  <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
+    <option name="sizePresets">
+      <list>
+        <SizePreset>
+          <option name="caption" value="Phone" />
+          <option name="height" value="568" />
+          <option name="width" value="320" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Tablet" />
+          <option name="height" value="1024" />
+          <option name="width" value="768" />
+        </SizePreset>
+        <SizePreset>
+          <option name="caption" value="Desktop" />
+          <option name="height" value="900" />
+          <option name="width" value="1440" />
+        </SizePreset>
+      </list>
+    </option>
+  </component>
+  <component name="designer2.settings">
+    <option name="serverIp" value="10.2.57.23" />
+    <option name="serverPort" value="52355" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/SistemaWeb/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormFuncionLogica.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/subsede.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="21" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/supervisor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/funcion.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADCasa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormFuncionLogica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADResponsable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2159">
+          <caret line="132" column="69" selection-start-line="132" selection-start-column="69" selection-end-line="132" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/accesodatos/ADSubsede.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/TabResponsable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormSupervisorLogica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="53" column="78" lean-forward="true" selection-start-line="53" selection-start-column="78" selection-end-line="53" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Funcion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/modelos/Responsable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="24" column="30" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#1166#1167#0" expanded="true" />
+            <element signature="e#1206#1207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaSupervisores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-391">
+          <caret line="276" column="41" lean-forward="true" selection-start-line="276" selection-start-column="41" selection-end-line="276" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/New.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/AdministradoresLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/ConfigDB.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="58" column="84" lean-forward="true" selection-start-line="58" selection-start-column="84" selection-end-line="58" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/adminpro-custon-icon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/all-type-forms.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="462" column="10" selection-start-line="462" selection-start-column="4" selection-end-line="462" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/c3.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/jquery.mCustomScrollbar.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/meanmenu.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="4" column="1409" selection-start-line="4" selection-start-column="1409" selection-end-line="4" selection-end-column="1409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/bootstrap-table.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/responsive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/FormResponsableLogica.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="65" column="62" selection-start-line="65" selection-start-column="62" selection-end-line="65" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59908">
+          <caret line="3524" selection-start-line="3524" selection-end-line="3524" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaResponsables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/CuartoLista.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="242" column="15" selection-start-line="242" selection-start-column="15" selection-end-line="242" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/img/e9sOl76q.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#741#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/img/logo/logoUaz.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/img/logo/logoCASE.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/MyUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/casa.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="106" column="9" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/beca.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/alumno.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mx/uaz/edu/SistemaBecasCASE/db/mappers/cuarto.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139">
+          <caret line="8605" column="21" lean-forward="true" selection-start-line="8605" selection-start-column="21" selection-end-line="8605" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/uaz/edu/SistemaBecasCASE/vistas/ListaUsuarios.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/SistemaWeb_war.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/mainSupervisor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="131" selection-start-line="21" selection-start-column="123" selection-end-line="21" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/layouts/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>SistemaWeb:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>SistemaWeb</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="jetty:run" />
+    <option value="-Djetty.port=8080" />
+    <option value="-Djetty.port=1212" />
+    <option value="-Djetty.port=8100" />
+  </component>
+</project>
